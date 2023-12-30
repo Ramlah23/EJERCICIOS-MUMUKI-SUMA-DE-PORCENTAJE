@@ -1,0 +1,74 @@
+body {background-color: rgba(137, 43, 226, 0.226);}
+.contenedor {background-color: white;
+width: 500px;
+height: 400px;
+margin-left: 500px;
+margin-top: 50px;
+border-radius: 20px;}
+
+p {padding-left: 80px;
+padding-top: 10px;
+font-family: cursive;
+font-weight: bold;
+font-size: 20px;}
+
+.dona {width: 350px; 
+    height: 80px;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+.precio {width: 80PX;
+height: 50px;
+border-style: ridge;
+text-align: center;
+border-radius: 10px;
+margin-inline-start: 20px;
+margin-inline: 1px;
+border-color: rgba(128, 128, 128, 0.24);}
+
+.precio1 {width: 80PX;
+    height: 50px;
+    border-style: ridge;
+    text-align: center;
+    border-radius: 10px;
+    margin-inline-start: 30px;
+    margin-inline: 1px;
+    border-color: rgba(128, 128, 128, 0.24);
+}
+
+
+.precio2 {width: 80PX;
+        height: 50px;
+        border-style: ridge;
+        text-align: center;
+        border-radius: 10px;
+        margin-inline-start: 20px;
+        margin-inline: 1px;
+    background-color:rgb(125, 100, 237);
+    border-color: rgba(128, 128, 128, 0.24);}
+
+.precio3 {width: 80PX;
+         height: 50px;
+        border-style: ridge;
+        text-align: center;    
+        border-radius: 10px;
+        margin-inline-start: 20px;
+        margin-inline: 1px;
+        border-color: rgba(128, 128, 128, 0.24);} 
+
+
+.continue {width: 300px;
+height: 50px;
+margin-top: 90px;
+border-radius: 10px;
+border-style: ridge;
+position: absolute;
+background-color:rgb(125, 100, 237);
+text-align: center;
+line-height: -10px;
+border-color: rgba(128, 128, 128, 0.24);}
+
+.precios {display: inline-flex;
+margin: 70px;
+font-family: cursive ;}

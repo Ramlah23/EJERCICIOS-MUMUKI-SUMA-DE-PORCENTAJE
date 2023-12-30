@@ -1,0 +1,22 @@
+header {
+    
+    height: 10px;
+    width: 200px;
+    font-size: 20px;
+}
+h1{
+    text-decoration: underline;
+}
+.cero {background-color: blue;}
+.cinco {background-color: cornflowerblue;}
+.diez { background-color: lightblue;}
+.quince { background-color: paleturquoise;}
+.veinte { background-color: honeydew;}
+.veinticinco {background-color: blanchedalmond;}
+.treinta {background-color: burlywood;}
+.treintaycinco {background-color: coral;}
+.cuarenta {background-color: darkorange;}
+.cuarentaycinco {background-color: orangered;}
+.cincuenta {background-color: red;}
+
+*{padding: 10px;}

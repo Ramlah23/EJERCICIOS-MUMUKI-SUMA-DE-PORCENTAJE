@@ -1,0 +1,18 @@
+*{
+    padding: 20px;
+    margin: 0%;
+    
+}
+
+.purpura {background-color: purple;margin-left: 40px;}
+.purpura fuerte {background-color: rebeccapurple; margin-left: 40px;} 
+.violeta {background-color: violet; margin-left: 40px;}
+.rosa {background-color: pink; margin-left: 40px;}
+.rosa fuerte {background-color: hotpink; margin-left: 40px;}
+header {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 75;}
+h1 {text-decoration: underline;}
+main {font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 55;}
+.paleta violet {color: black;}
+.p{background-color: violet;}

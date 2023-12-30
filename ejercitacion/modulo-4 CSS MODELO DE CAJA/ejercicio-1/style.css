@@ -1,0 +1,45 @@
+.cuadrado {
+    margin-top: 180px;
+    margin-left: 450px;
+    width: 320px;
+    height: 320px;
+    background-color: aliceblue;
+}
+body {background-color: darkgray;}
+.noti {margin-left: 20px;
+padding-top: -5px;
+font-weight: bold;}
+.campanita {margin-left: 20px;
+padding-top: 15px;}
+.cuadradito { margin-top: 30px;
+    margin-left: 20px;
+    width: 100px;
+    height: 25px;
+    background-color: deepskyblue;
+    
+}
+.sign {padding-left: 10px;
+    padding-top: 3px;
+color: aliceblue;}
+.texto {margin-left: 20px
+}
+body {font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 12px;
+}
+.log {color: deepskyblue;}
+.texto {padding: -3px;}
+.texto1 {padding: 10PX;
+    margin-left: 15px
+}
+div {padding-top: 10px;
+     padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 15px;}
+
+    .sign {text-align: center;
+    line-height: 1px;}
+
+    div {background-attachment: fixed;
+    border-radius: 10px;
+    }
+

@@ -1,0 +1,14 @@
+header {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+main {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header {font-size: 30px;
+color: darkviolet;}
+h3 {font-size: 20px; }
+.r {background-color: chartreuse;}
+.p {background-color: yellow;}
+.c {background-color: red;}
+
+h1 {background-color: fuchsia;}

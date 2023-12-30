@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Sumar dos porsentajes</h1>  
+    <p>Por favor, introduce dos números:</p>  
+    <input id="numero1"><br>  
+    <input id="numero2">  
+    <button type="button" onclick="sumarPorcentaje()">Sumar</button>  
+    <p id="sumando"></p>  
+    <script>
+function sumarPorcentaje (numero1 , numero2)
+{
+ 
+  let porcentaje = (numero1 * numero2 ) /100 + numero1;
+  
+  return `${porcentaje}`;
+  
+}
+    </script>
+</body>
+</html>

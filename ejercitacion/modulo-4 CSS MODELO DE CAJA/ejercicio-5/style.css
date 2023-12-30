@@ -1,0 +1,85 @@
+body {background-color: rgb(0, 251, 255);}
+.contenedor {width: 375px;
+height: 350px;
+margin-left: 500px;
+margin-top: 200px;
+background-color: white;
+padding-left: 30px;
+font-weight: bold;
+padding-top: 15px;
+border-radius: 8px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px;
+}
+.user {
+    width: 320px;
+    height: 53px;
+    border-style: ridge;
+    padding-left: 20px;
+    padding-top: 30px;
+    margin-right: 50px;
+    margin-top: 6px;
+    border-radius: 8px;
+    text-align: center;
+    text-align: initial;
+    text-align: justify;
+    border-left-color: red;
+    border-left-style: solid;
+    border-left-width: 10px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+    p {color: rgba(128, 128, 128, 0.56);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 15px;
+}
+
+.user2 {
+    width: 320px;
+    height: 53px;
+    border-style: ridge;
+    padding-left: 20px;
+    padding-top: 30px;
+    margin-right: 50px;
+    margin-top: 6px;
+    border-radius: 8px;
+    text-align: center;
+    text-align: initial;
+    text-align: justify;
+    border-left-color: violet;
+    border-left-style: solid;
+    border-left-width: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+
+    .user3 {
+        width: 320px;
+        height: 53px;
+        border-style: ridge;
+        padding-left: 20px;
+        padding-top: 30px;
+        margin-right: 50px;
+        margin-top: 6px;
+        border-radius: 8px;
+        text-align: center;
+        text-align: initial;
+        text-align: justify;
+        border-left-width: 10px;
+        border-left-style: solid;
+        border-left-color: orange;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+    
+
+    .view {width: 100px;
+    height: 20px;
+border-style: ridge;
+margin-left: 248px;
+border-radius: 8px;
+text-align: center;
+margin-top: 2px;
+top: 10px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: rgba(128, 128, 128, 0.56);
+font-size: 15px;
+
+}
+

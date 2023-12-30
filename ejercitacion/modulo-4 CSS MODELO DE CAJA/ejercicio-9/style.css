@@ -1,0 +1,67 @@
+.contenedor {
+    background-color: white;
+    width: 250px;
+    margin: 100px auto;
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: 900px
+}
+body {
+    background-color: #7584f71c;
+    color: rgb(44, 0, 139);
+    
+}
+
+
+.proyect{ font-weight: bold;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px;
+color: rgb(44, 0, 139);}
+
+.contenedor2 {width: 245px;
+    margin: 30px auto;
+    padding: 8px;
+    border-radius: 20px;
+background-color:  #7584f70e;}
+
+.up{
+    width: 130px;
+    margin: 15px auto;
+    height: 25px;
+    border-radius: 20px;
+    background-color:white;
+    padding: 3px;
+    text-align: center;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(44, 0, 139);
+    font-weight: bold;
+}
+
+.recovery {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color:  rgb(44, 0, 139);}
+
+.rec {font-size: 14px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: rgb(44, 0, 139);}
+.mail {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color:rgb(44, 0, 139);
+}
+
+.texto {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color:rgb(44, 0, 139);
+font-size: 13px;
+}
+
+.contenedor3 {
+    width: 120px;
+    margin-top: 50px;
+   margin-right:400px;
+    padding: 8px;
+    border-radius: 20px;
+    background-color: rgb(44, 0, 139);
+    color: white;
+}

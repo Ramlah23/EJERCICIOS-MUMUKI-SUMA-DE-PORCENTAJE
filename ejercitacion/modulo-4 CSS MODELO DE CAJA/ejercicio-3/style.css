@@ -1,0 +1,141 @@
+h1 {text-align: left;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 50px;
+text-decoration: underline;}
+
+.bandera-argentina {width: 300px;
+    height: 200px;
+    background: black;
+    position: absolute;
+    top: 150px;
+    left: 100px;
+border-style: groove;}
+    
+.franja-celeste {width: 299.7px;
+height: 66.5px;
+background-color:#A8E9FF;
+}
+.franja-blanca {width: 300px;
+height: 66.6px;
+background-color:#f7f7fc;
+}
+img {
+    width: 65px;
+    top: 70px;
+    left: 110px;
+  }
+
+  .bandera-mexico {width: 300px;
+    height: 200px;
+    background: black;
+    position: absolute;
+    top: 400px;
+    left: 100px;
+border-style: groove;}
+ 
+   .franja-verde {width: 100px;
+        height: 200px;
+        background-color: green;
+        }
+    .franja-blanca2 {width: 100px;
+        height: 200px;
+        background-color:#f7f7fc
+        ;
+        }
+    .franja-rojo {width: 100px;
+            height: 200px;
+            background-color: red;
+            }
+     .bandera-mexico {display: flex;
+        }   
+        .bandera-bolivia {width: 300px;
+            height: 200px;
+            background: black;
+            position: absolute;
+            top: 150px;
+            left: 450px;
+        border-style: groove;}
+            
+        .franja-roja {width: 299.7px;
+        height: 66.5px;
+        background-color: red;
+        }
+        .franja-amarilla {width: 300px;
+        height: 66.6px;
+        background-color: yellow;
+        }
+        .franja-verde2 {width: 299.7px;
+            height: 66.5px;
+            background-color: green;
+        }
+        img {
+            width: 65px;
+            top: 70px;
+            left: 110px;
+        }          
+    .bandera-alemania {width: 300px;
+         height: 200px;
+         background: black;
+        position: absolute;
+        top: 400px;
+        left: 450px;
+        border-style: groove;}
+            
+    .franja-negra {width: 299.7px;
+        height: 66.5px;
+        background-color: black;
+    }
+    .franja-rojo2 {width: 300px;
+    height: 66.6px;
+    background-color: red;
+    }
+    .franja-amarillo1 {width: 299.7px;
+        height: 66.5px;
+        background-color: yellow;
+    }
+    .bandera-turquia {width: 300px;
+        height: 200px;
+        background-color: red;
+       position: absolute;
+       top: 150px;
+       left: 800px;
+       border-style: groove;}
+       img {
+        width: 65px;
+        position: absolute;
+        top: 70px;
+        left: 110px;}
+    .franja-roja3 {width: 299.7px;
+        height: 66.6px;
+        background-color: red;
+        }
+    .franja-blanca3 {width: 300px;
+         height: 66.6px;
+        background-color:#f7f7fc;
+       top: 80px; 
+}
+   .franja-roja3 {width: 299.7px;
+    height: 66.6px;
+    background-color: red;
+    }
+    .bandera-haiti {width: 300px;
+        height: 200px;
+        background-color: red;
+       position: absolute;
+       top: 400px;
+       left: 800px;
+       border-style: groove;}
+       img {
+        width: 65px;
+        position: absolute;
+        top: 70px;
+        left: 110px;}
+    .franja-azul {width: 299.7px;
+        height: 100px;
+        background-color: blue;
+        }
+    .franja-roja4 {width: 300px;
+         height: 66.6px;
+        background-color: red;
+       top: 80px; 
+}

@@ -1,0 +1,12 @@
+h1 { font-family: 'Young Serif', serif;
+    font-size: 120px;
+    font-weight: 800px;
+}
+p {font-family: 'Roboto Condensed', sans-serif;
+  font-size: 48px;
+  font-weight: 600px;
+}
+
+body {background-color: indigo;}
+h1 {color: aqua;}
+p {color: aquamarine;}

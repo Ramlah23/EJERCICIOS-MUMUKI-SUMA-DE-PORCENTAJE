@@ -1,0 +1,10 @@
+div { 
+    margin-top: 40px;
+    margin-left: 450px;
+    height: 150px;
+width: 500px;
+background-color: blueviolet;
+}
+.corazon {display: flex;}
+.fondo {border-style: dashed;
+border-radius: 20PX;}

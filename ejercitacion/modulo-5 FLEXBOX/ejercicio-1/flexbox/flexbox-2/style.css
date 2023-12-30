@@ -1,0 +1,20 @@
+.header-container {
+    display: flex;
+    background-color: rgba(137, 43, 226, 0.34);
+    height: 150px;
+}
+.main-container {
+    display: flex;
+    background-color: white;
+    height: 500px;
+}
+.footer-container {
+    display: flex;
+    background-color: blueviolet;
+    height: 50px;
+}
+
+body  {display: flex;
+
+flex-basis: auto;
+}

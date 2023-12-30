@@ -1,0 +1,11 @@
+h1 { font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+font-size: 50px;}
+h2 {font-size: 25px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3 {font-size: 20px;}
+.fecha {color: gray;}
+.monto {color: red;}
+.monto1 {color: green;}
+
